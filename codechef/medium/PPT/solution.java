@@ -8,8 +8,16 @@ class Codechef
 	{
 		// your code goes here
 		Scanner sc= new Scanner(System.in);
+		if (sc.hasNextInt()) {
+		int n=sc.nextInt();
+		int total=20;
 		
+		int left=total-n;
 		
+		System.out.println("left");
+		}
+		
+		sc.close();
 
 	}
 }
