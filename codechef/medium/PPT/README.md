@@ -55,27 +55,22 @@ Output
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-05T16:10:53.042Z  
+**Submitted:** 2026-08-05T16:01:15.181Z  
 
 ```java
-import java.util.Scanner;
+import java.util.*;
+import java.lang.*;
+import java.io.*;
 
-class Codechef {
-    public static void main(String[] args) throws java.lang.Exception {
-        Scanner sc = new Scanner(System.in);
-        
-        if (sc.hasNextInt()) {
-        
-            int n = sc.nextInt();
-            int totalSlidesRequired = 20;
-            int remainingSlides = totalSlidesRequired - n;
-            
-            System.out.println(remainingSlides);
-        }
-        
-        sc.close();
-    }
+class Codechef
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+		// your code goes here
+
+	}
 }
+
 ```
 
 ---
