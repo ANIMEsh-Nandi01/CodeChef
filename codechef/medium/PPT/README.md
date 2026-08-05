@@ -55,7 +55,7 @@ Output
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-05T16:07:23.557Z  
+**Submitted:** 2026-08-05T16:04:25.185Z  
 
 ```java
 import java.util.*;
@@ -69,12 +69,7 @@ class Codechef
 		// your code goes here
 		Scanner sc= new Scanner(System.in);
 		
-		int n=sc.nextInt();
-		int total=20;
 		
-		int left=total-n;
-		
-		System.out.println("left");
 
 	}
 }
